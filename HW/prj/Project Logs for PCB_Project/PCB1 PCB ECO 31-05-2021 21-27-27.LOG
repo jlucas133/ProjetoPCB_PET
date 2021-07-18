@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NRST Pin=Debug1-BOOT0
+Removed Pin From Net: NetName=GND Pin=Debug1-
+Removed Pin From Net: NetName=BOOT0 Pin=Debug1-NRST
+Removed Pin From Net: NetName=VCC Pin=Debug1-PA1
+Removed Pin From Net: NetName=PA13 Pin=Debug1-PA13
+Removed Pin From Net: NetName=PA14 Pin=Debug1-PA14
+Removed Member From Class: ClassName=Sheet1 Member=Debug1
+Added Component: Designator=Debug(Debugwires)
+Add component (AddParameter): Name = "buy"; Value = "https://www.autocorerobotica.com.br/barra-de-40-pinos-femea-x5-unidades"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRST Pin=Debug-BOOT0
+Added Pin To Net: NetName=GND Pin=Debug-GND
+Added Pin To Net: NetName=BOOT0 Pin=Debug-NRST
+Added Pin To Net: NetName=PA13 Pin=Debug-PA13
+Added Pin To Net: NetName=PA14 Pin=Debug-PA14
+Added Pin To Net: NetName=VCC Pin=Debug-VCC
+Added Member To Class: ClassName=Sheet1 Member=Component Debug Debugwires
+Added Room: Name=Sheet1

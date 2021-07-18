@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NRST Pin=CN1-BOOT0
+Removed Pin From Net: NetName=BOOT0 Pin=CN1-NRST
+Removed Pin From Net: NetName=PA13 Pin=CN1-PA13
+Removed Pin From Net: NetName=PA14 Pin=CN1-PA14
+Removed Pin From Net: NetName=PA2 Pin=CN2-PA2
+Removed Pin From Net: NetName=PA3 Pin=CN2-PA3
+Removed Pin From Net: NetName=PA4 Pin=CN2-PA4
+Removed Pin From Net: NetName=PA5 Pin=CN2-PA5
+Removed Pin From Net: NetName=PA6 Pin=CN2-PA6
+Removed Pin From Net: NetName=PA7 Pin=CN2-PA7
+Removed Member From Class: ClassName=Sheet1 Member=CN1
+Removed Member From Class: ClassName=Sheet1 Member=CN2
+Added Component: Designator=CNOUT(Debugwires)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component CNOUT Conectionwires
+Added Room: Name=Sheet1

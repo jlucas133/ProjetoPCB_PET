@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=GND Pin=DS1-GND
+Removed Pin From Net: NetName=PA9 Pin=DS1-SCK
+Removed Pin From Net: NetName=PA10 Pin=DS1-SDA
+Removed Pin From Net: NetName=VCC Pin=DS1-VCC
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=VCC Pin=U1-5V
+Removed Pin From Net: NetName=VCC Pin=U1-5V
+Removed Pin From Net: NetName=BOOT0 Pin=U1-BOOT0
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=NRST Pin=U1-NRST
+Removed Pin From Net: NetName=PA2 Pin=U1-PA2
+Removed Pin From Net: NetName=PA3 Pin=U1-PA3
+Removed Pin From Net: NetName=PA4 Pin=U1-PA4
+Removed Pin From Net: NetName=PA5 Pin=U1-PA5
+Removed Pin From Net: NetName=PA6 Pin=U1-PA6
+Removed Pin From Net: NetName=PA7 Pin=U1-PA7
+Removed Pin From Net: NetName=PA9 Pin=U1-PA9
+Removed Pin From Net: NetName=PA10 Pin=U1-PA10
+Removed Pin From Net: NetName=PA13 Pin=U1-PA13
+Removed Pin From Net: NetName=PA14 Pin=U1-PA14
+Removed Member From Class: ClassName=Sheet1 Member=DS1
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Change component parameters: Designator = "Debug"; Footprint = "Debugwires"; UniqueID = "\QEUOWWWF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "buy"; Value = "https://www.autocorerobotica.com.br/barra-de-40-pinos-femea-x5-unidades"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Conection"; Footprint = "Conectionwires"; UniqueID = "\DOCGAJGW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "buy"; Value = "https://www.autocorerobotica.com.br/barra-pinos-macho-180"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimensões"; Value = "https://www.autocorerobotica.com.br/barra-de-40-pinos-femea-x5-unidades"; VariantName = "[No Variations]"
+Added Component: Designator=DS(Display oled)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Informations"; Value = "Display oled 0.96 pol 128x64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link_mercadolivre"; Value = "https://produto.mercadolivre.com.br/MLB-1549862447-display-oled-096-azul-amarelo-i2c-128x64-arduino-raspberry-_JM?quantity=1#position=4&type=item&tracking_id=dc610daf-3617-4627-bdd2-8ae4acf904ab"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link to buy and measurements"; Value = "https://pt.aliexpress.com/item/32896971385.html?spm=a2g0o.productlist.0.0.6ecd7bb88K6sVT&algo_pvid=5cb829e2-0bf1-4f55-8bae-71a0ff6fa1f2&algo_expid=5cb829e2-0bf1-4f55-8bae-71a0ff6fa1f2-0&btsid=0ab50f6215875744850722033e6e98&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"; VariantName = "[No Variations]"
+Added Component: Designator=J(NINIGI_DC-005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link_mercadolivre"; Value = "https://produto.mercadolivre.com.br/MLB-1497128338-10-pecas-jack-j4-21mm-para-placa-plug-p4-arduino-_JM?quantity=1#position=1&type=item&tracking_id=8412b441-44a9-4b74-b006-990053047356"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DC-005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Ninigi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DC-005/Littelfuse%20Inc./view-part/2874446/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MCU(Processor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Adapter"; Value = "SOP20 TO DIP20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link to buy"; Value = "https://www.autocorerobotica.com.br/adaptador-sop20-ssop20-tssop20-smd-para-dip-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Measurements link"; Value = "https://alltopnotch.co.uk/product/2-x-sop20-s020-soic20-tssop20-msop20-to-dip20-adapter-board-smd-breakout/"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DS-GND
+Added Pin To Net: NetName=PA9 Pin=DS-SCK
+Added Pin To Net: NetName=PA10 Pin=DS-SDA
+Added Pin To Net: NetName=VCC Pin=DS-VCC
+Added Pin To Net: NetName=GND Pin=J-2
+Added Pin To Net: NetName=GND Pin=J-3
+Added Pin To Net: NetName=VCC Pin=MCU-5V
+Added Pin To Net: NetName=VCC Pin=MCU-5V
+Added Pin To Net: NetName=BOOT0 Pin=MCU-BOOT0
+Added Pin To Net: NetName=GND Pin=MCU-GND
+Added Pin To Net: NetName=NRST Pin=MCU-NRST
+Added Pin To Net: NetName=PA2 Pin=MCU-PA2
+Added Pin To Net: NetName=PA3 Pin=MCU-PA3
+Added Pin To Net: NetName=PA4 Pin=MCU-PA4
+Added Pin To Net: NetName=PA5 Pin=MCU-PA5
+Added Pin To Net: NetName=PA6 Pin=MCU-PA6
+Added Pin To Net: NetName=PA7 Pin=MCU-PA7
+Added Pin To Net: NetName=PA9 Pin=MCU-PA9
+Added Pin To Net: NetName=PA10 Pin=MCU-PA10
+Added Pin To Net: NetName=PA13 Pin=MCU-PA13
+Added Pin To Net: NetName=PA14 Pin=MCU-PA14
+Added Pin To Net: NetName=NetJ_4 Pin=J-4
+Added Pin To Net: NetName=NetJ_4 Pin=R1-1
+Added Net: Name=NetJ_4
+Added Member To Class: ClassName=Sheet1 Member=Component DS Display 0.96 pol
+Added Member To Class: ClassName=Sheet1 Member=Component J DC-005
+Added Member To Class: ClassName=Sheet1 Member=Component MCU Processor
+Added Room: Name=Sheet1

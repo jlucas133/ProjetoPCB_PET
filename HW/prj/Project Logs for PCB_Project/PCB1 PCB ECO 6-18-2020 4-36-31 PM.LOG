@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=CNOUT Old Footprint=Debugwires New Footprint=Conectionwires
+Added Pin To Net: NetName=PA2 Pin=CNOUT-PA2
+Added Pin To Net: NetName=PA3 Pin=CNOUT-PA3
+Added Pin To Net: NetName=PA4 Pin=CNOUT-PA4
+Added Pin To Net: NetName=PA5 Pin=CNOUT-PA5
+Added Pin To Net: NetName=PA6 Pin=CNOUT-PA6
+Added Pin To Net: NetName=PA7 Pin=CNOUT-PA7

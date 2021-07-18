@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PA4 Pin=Conection1-PA4
+Added Pin To Net: NetName=PF-0 Pin=MCU1-PF0
+Added Net: Name=PF-0
+Added Room: Name=Sheet1

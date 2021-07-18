@@ -1,0 +1,8 @@
+Added Component: Designator=CNIN(Debugwires)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NRST Pin=CNIN-BOOT0
+Added Pin To Net: NetName=BOOT0 Pin=CNIN-NRST
+Added Pin To Net: NetName=PA13 Pin=CNIN-PA13
+Added Pin To Net: NetName=PA14 Pin=CNIN-PA14
+Added Member To Class: ClassName=Sheet1 Member=Component CNIN Debugwires
+Added Room: Name=Sheet1

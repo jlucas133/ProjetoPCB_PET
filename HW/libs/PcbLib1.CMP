@@ -1,0 +1,15 @@
+Component   : NINIGI_DC-005
+PCB Library : PcbLib1.PcbLib
+Date        : 30/09/2020
+Time        : 11:20:07
+
+
+
+Dimension : 15.062 x 11.024 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer               199          0        0       0        0
+ Top Overlay                 0          6        0       0        0
+--------------------------------------------------------------------
+ Total                     199          6        0       0        0

@@ -1,0 +1,7 @@
+[0418/221512:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (0x2740)
+[0418/221512:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0418/222046:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (0x2740)
+[0418/222046:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0419/110336:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0419/110339:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0419/110339:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

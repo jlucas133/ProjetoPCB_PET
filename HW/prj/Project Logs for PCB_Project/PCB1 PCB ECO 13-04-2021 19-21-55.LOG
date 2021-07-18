@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=VCC-IN Pin=U1-V-IN
+Removed Pin From Net: NetName=VCC Pin=U1-V-OUT
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Change Component Designator: OldDesignator=C1 NewDesignator=C
+Added Component: Designator=U(AZ1117)
+Add component (AddParameter): Name = "Availability"; Value = "Avaliable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_Link"; Value = "https://www.digikey.com/en/datasheets/diodes-incorporated/diodes-incorporated-az1117c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fornecimento"; Value = "5 unidades dadas pelo LESC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link_to_buy"; Value = "https://produto.mercadolivre.com.br/MLB-1647161150-transistor-az1117-25tre1-az1117-25-1117-25-kit-5-pecas-_JM#position=1&type=item&tracking_id=ce52b624-396d-47aa-8cab-d923e44ab95b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "R$ 34.00 / 50 unidades"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U-GND
+Added Pin To Net: NetName=VCC-IN Pin=U-V-IN
+Added Pin To Net: NetName=VCC Pin=U-V-OUT
+Added Pin To Net: NetName=VCC Pin=U-V-OUT
+Added Member To Class: ClassName=Sheet1 Member=Component U AZ1117
+Added Room: Name=Sheet1

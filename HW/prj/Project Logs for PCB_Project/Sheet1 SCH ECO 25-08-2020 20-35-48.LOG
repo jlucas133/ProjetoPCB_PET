@@ -1,0 +1,10 @@
+Change Component Comment: Designator=C1 Old Comment=22uF New Comment=Capacitor Eletrolítico
+Change Component Comment: Designator=C2 Old Comment=22uF New Comment=Capacitor Eletrolítico
+Change Component Comment: Designator=C3 Old Comment=22uF New Comment=Capacitor Eletrolítico
+Change Component Comment: Designator=C4 Old Comment=22uF New Comment=Capacitor Eletrolítico
+Change Component Designator: OldDesignator=Conection1 NewDesignator=Conection
+Change Component Designator: OldDesignator=Debug1 NewDesignator=Debug
+Change Component Designator: OldDesignator=DS1 NewDesignator=DS
+Change Component Designator: OldDesignator=J1 NewDesignator=J
+Change Component Designator: OldDesignator=LM1 NewDesignator=LM1117
+Change Component Designator: OldDesignator=MCU1 NewDesignator=MCU

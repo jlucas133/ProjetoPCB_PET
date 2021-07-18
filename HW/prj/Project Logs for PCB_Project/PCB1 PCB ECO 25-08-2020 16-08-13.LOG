@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC-IN Pin=C1-+
+Removed Pin From Net: NetName=VCC Pin=C3-+
+Change Net Name : Old Net Name=NetC2_+ New Net Name=NetC1_-
+Added Room: Name=Sheet1

@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=VCC-IN Pin=C1-+
+Removed Pin From Net: NetName=GND Pin=C2--
+Removed Pin From Net: NetName=GND Pin=C4--
+Removed Pin From Net: NetName=GND Pin=LM1117-GND
+Removed Pin From Net: NetName=GND Pin=LM1117-GND
+Removed Pin From Net: NetName=VCC-IN Pin=LM1117-V-IN
+Removed Pin From Net: NetName=VCC Pin=LM1117-V-OUT
+Removed Member From Class: ClassName=Sheet1 Member=LM1117
+Change Component Comment : Designator=C1 Old Comment=Capacitor Eletrolítico New Comment=22uF
+Change Component Comment : Designator=C2 Old Comment=Capacitor Eletrolítico New Comment=22uF
+Change Component Comment : Designator=C3 Old Comment=Capacitor Eletrolítico New Comment=22uF
+Change Component Comment : Designator=C4 Old Comment=Capacitor Eletrolítico New Comment=22uF
+Change Component Designator: OldDesignator=Conection NewDesignator=Conection1
+Change Component Designator: OldDesignator=Debug NewDesignator=Debug1
+Change Component Designator: OldDesignator=DS NewDesignator=DS1
+Change Component Designator: OldDesignator=J NewDesignator=J1
+Change Component Designator: OldDesignator=MCU NewDesignator=MCU1
+Added Component: Designator=U1(LM1117)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Avaliable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_Link"; Value = "https://www.ti.com/lit/ds/symlink/lm1117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fornecimento"; Value = "5 unidades dadas pelo LESC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link_to_buy"; Value = "https://produto.mercadolivre.com.br/MLB-1311183327-regulador-tenso-ams1117-5v-1a-ams-50-lm1117-arduino-50-und-_JM?quantity=1#position=1&type=item&tracking_id=e7e56533-6660-4ba9-8523-e90372d9ead6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "R$ 34.00 / 50 unidades"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=VCC-IN Pin=U1-V-IN
+Added Pin To Net: NetName=VCC Pin=U1-V-OUT
+Added Net: Name=NetC1_pos
+Added Net: Name=NetC2_pos
+Added Pin To Net: NetName=PA0 Pin=Debug1-PA0
+Added Pin To Net: NetName=PA0 Pin=MCU1-PA0
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=Debug1-PA1
+Added Pin To Net: NetName=PA1 Pin=MCU1-PA1
+Added Net: Name=PA1
+Added Member To Class: ClassName=Sheet1 Member=Component C4 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component U1 Lm1117
+Added Room: Name=Sheet1

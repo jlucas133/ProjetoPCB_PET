@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NRST Pin=CNIN-BOOT0
+Removed Pin From Net: NetName=BOOT0 Pin=CNIN-NRST
+Removed Pin From Net: NetName=PA13 Pin=CNIN-PA13
+Removed Pin From Net: NetName=PA14 Pin=CNIN-PA14
+Removed Pin From Net: NetName=PA2 Pin=CNOUT-PA2
+Removed Pin From Net: NetName=PA3 Pin=CNOUT-PA3
+Removed Pin From Net: NetName=PA4 Pin=CNOUT-PA4
+Removed Pin From Net: NetName=PA5 Pin=CNOUT-PA5
+Removed Pin From Net: NetName=PA6 Pin=CNOUT-PA6
+Removed Pin From Net: NetName=PA7 Pin=CNOUT-PA7
+Removed Member From Class: ClassName=Sheet1 Member=CNIN
+Removed Member From Class: ClassName=Sheet1 Member=CNOUT
+Added Component: Designator=Conection(Conectionwires)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Debug(Debugwires)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PA2 Pin=Conection-PA2
+Added Pin To Net: NetName=PA3 Pin=Conection-PA3
+Added Pin To Net: NetName=PA4 Pin=Conection-PA4
+Added Pin To Net: NetName=PA5 Pin=Conection-PA5
+Added Pin To Net: NetName=PA6 Pin=Conection-PA6
+Added Pin To Net: NetName=PA7 Pin=Conection-PA7
+Added Pin To Net: NetName=NRST Pin=Debug-BOOT0
+Added Pin To Net: NetName=BOOT0 Pin=Debug-NRST
+Added Pin To Net: NetName=PA13 Pin=Debug-PA13
+Added Pin To Net: NetName=PA14 Pin=Debug-PA14
+Added Member To Class: ClassName=Sheet1 Member=Component Conection Conectionwires
+Added Member To Class: ClassName=Sheet1 Member=Component Debug Debugwires

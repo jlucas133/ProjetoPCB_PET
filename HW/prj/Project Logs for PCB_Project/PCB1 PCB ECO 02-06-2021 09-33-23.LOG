@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=Debug-VCC
+Added Pin To Net: NetName=VCC-IN Pin=Debug-VCC
+Added Room: Name=Sheet1
